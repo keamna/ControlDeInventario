@@ -1,0 +1,7 @@
+C:\Users\Keany\source\Programacion II C# Visual Studio\ControlDeInventario\ControlDeInventario\obj\Debug\ControlDeInventario.csproj.AssemblyReference.cache
+C:\Users\Keany\source\Programacion II C# Visual Studio\ControlDeInventario\ControlDeInventario\obj\Debug\ControlDeInventario.csproj.CoreCompileInputs.cache
+C:\Users\Keany\source\Programacion II C# Visual Studio\ControlDeInventario\ControlDeInventario\bin\Debug\ControlDeInventario.exe.config
+C:\Users\Keany\source\Programacion II C# Visual Studio\ControlDeInventario\ControlDeInventario\bin\Debug\ControlDeInventario.exe
+C:\Users\Keany\source\Programacion II C# Visual Studio\ControlDeInventario\ControlDeInventario\bin\Debug\ControlDeInventario.pdb
+C:\Users\Keany\source\Programacion II C# Visual Studio\ControlDeInventario\ControlDeInventario\obj\Debug\ControlDeInventario.exe
+C:\Users\Keany\source\Programacion II C# Visual Studio\ControlDeInventario\ControlDeInventario\obj\Debug\ControlDeInventario.pdb

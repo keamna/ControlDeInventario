@@ -1,0 +1,85 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Keany\\source\\Programacion II C# Visual Studio\\ControlDeInventario\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E845044C-DC5E-4A2D-803B-4D2E4E392E44}|ControlDeInventario\\ControlDeInventario.csproj|c:\\users\\keany\\source\\programacion ii c# visual studio\\controldeinventario\\controldeinventario\\articulos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E845044C-DC5E-4A2D-803B-4D2E4E392E44}|ControlDeInventario\\ControlDeInventario.csproj|solutionrelative:controldeinventario\\articulos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E845044C-DC5E-4A2D-803B-4D2E4E392E44}|ControlDeInventario\\ControlDeInventario.csproj|C:\\Users\\Keany\\source\\Programacion II C# Visual Studio\\ControlDeInventario\\controldeinventario\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E845044C-DC5E-4A2D-803B-4D2E4E392E44}|ControlDeInventario\\ControlDeInventario.csproj|solutionrelative:controldeinventario\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E845044C-DC5E-4A2D-803B-4D2E4E392E44}|ControlDeInventario\\ControlDeInventario.csproj|C:\\Users\\Keany\\source\\Programacion II C# Visual Studio\\ControlDeInventario\\controldeinventario\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E845044C-DC5E-4A2D-803B-4D2E4E392E44}|ControlDeInventario\\ControlDeInventario.csproj|solutionrelative:controldeinventario\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E845044C-DC5E-4A2D-803B-4D2E4E392E44}|ControlDeInventario\\ControlDeInventario.csproj|C:\\Users\\Keany\\source\\Programacion II C# Visual Studio\\ControlDeInventario\\controldeinventario\\arreglo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E845044C-DC5E-4A2D-803B-4D2E4E392E44}|ControlDeInventario\\ControlDeInventario.csproj|solutionrelative:controldeinventario\\arreglo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "arreglo.cs",
+              "DocumentMoniker": "C:\\Users\\Keany\\source\\Programacion II C# Visual Studio\\ControlDeInventario\\ControlDeInventario\\arreglo.cs",
+              "RelativeDocumentMoniker": "ControlDeInventario\\arreglo.cs",
+              "ToolTip": "C:\\Users\\Keany\\source\\Programacion II C# Visual Studio\\ControlDeInventario\\ControlDeInventario\\arreglo.cs",
+              "RelativeToolTip": "ControlDeInventario\\arreglo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T19:03:16.177Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "articulos.cs",
+              "DocumentMoniker": "C:\\Users\\Keany\\source\\Programacion II C# Visual Studio\\ControlDeInventario\\ControlDeInventario\\articulos.cs",
+              "RelativeDocumentMoniker": "ControlDeInventario\\articulos.cs",
+              "ToolTip": "C:\\Users\\Keany\\source\\Programacion II C# Visual Studio\\ControlDeInventario\\ControlDeInventario\\articulos.cs",
+              "RelativeToolTip": "ControlDeInventario\\articulos.cs",
+              "ViewState": "AgIAAKUAAAAAAAAAAAAkwJ4AAABoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T19:14:47.415Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "menu.cs",
+              "DocumentMoniker": "C:\\Users\\Keany\\source\\Programacion II C# Visual Studio\\ControlDeInventario\\ControlDeInventario\\menu.cs",
+              "RelativeDocumentMoniker": "ControlDeInventario\\menu.cs",
+              "ToolTip": "C:\\Users\\Keany\\source\\Programacion II C# Visual Studio\\ControlDeInventario\\ControlDeInventario\\menu.cs",
+              "RelativeToolTip": "ControlDeInventario\\menu.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAowC4AAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T19:01:16.93Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Keany\\source\\Programacion II C# Visual Studio\\ControlDeInventario\\ControlDeInventario\\Program.cs",
+              "RelativeDocumentMoniker": "ControlDeInventario\\Program.cs",
+              "ToolTip": "C:\\Users\\Keany\\source\\Programacion II C# Visual Studio\\ControlDeInventario\\ControlDeInventario\\Program.cs",
+              "RelativeToolTip": "ControlDeInventario\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T18:51:57.687Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
